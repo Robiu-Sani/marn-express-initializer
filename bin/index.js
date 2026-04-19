@@ -57,9 +57,9 @@ program
       /**
        * গুরুত্বপূর্ণ পরিবর্তন: 
        * যেহেতু এই ফাইলটি 'bin/' ফোল্ডারের ভেতরে আছে, 
-       * তাই 'templates' এ যেতে হলে এক ধাপ উপরে (..) যেতে হবে।
+       * তাই 'template' এ যেতে হলে এক ধাপ উপরে (..) যেতে হবে।
        */
-      const templatePath = path.resolve(__dirname, '..', 'templates', database);
+      const templatePath = path.resolve(__dirname, '..', 'template', database);
 
       // ৩. ফাইল কপি শুরু
       const spinner = ora(`Generating ${database} project structure...`).start();
