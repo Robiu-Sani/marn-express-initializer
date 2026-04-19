@@ -49,17 +49,17 @@ Here is the corrected **Documentation** table for your `README.md` using your Gi
 
 | Topic | Documentation Link |
 | :--- | :--- |
-| 🚀 **Getting Started** | [Project Initializer](https://www.google.com/search?q=https://github.com/Robiu-Sani/create-express-easy/blob/main/project-initializer.md) |
-| 🔑 **Environment** | [Environment Setup](https://www.google.com/search?q=https://github.com/Robiu-Sani/create-express-easy/blob/main/env-doc.md) |
-| ⚙️ **Configuration** | [Config Setup](https://www.google.com/search?q=https://github.com/Robiu-Sani/create-express-easy/blob/main/config-doc.md) |
-| 🏗️ **Architecture** | [Module Structure](https://www.google.com/search?q=https://github.com/Robiu-Sani/create-express-easy/blob/main/module-doc.md) |
-| 🛡️ **Security** | [Auth Middleware](https://www.google.com/search?q=https://github.com/Robiu-Sani/create-express-easy/blob/main/auth-middleware-doc.md) |
-| 🛠️ **Custom Logic** | [Custom Middleware](https://www.google.com/search?q=https://github.com/Robiu-Sani/create-express-easy/blob/main/middleware-doc.md) |
-| 🖼️ **File Upload** | [Upload Image](https://www.google.com/search?q=https://github.com/Robiu-Sani/create-express-easy/blob/main/uploadimage-doc.md) & [Cloudinary](https://www.google.com/search?q=https://github.com/Robiu-Sani/create-express-easy/blob/main/upload-in-cloudinary.md) |
-| 🔗 **Routing** | [Router Guide](https://www.google.com/search?q=https://github.com/Robiu-Sani/create-express-easy/blob/main/router-doc.md) |
-| 📧 **Mailing** | [Send Email](https://www.google.com/search?q=https://github.com/Robiu-Sani/create-express-easy/blob/main/send-email-doc.md) & [Templates](https://www.google.com/search?q=https://github.com/Robiu-Sani/create-express-easy/blob/main/email-templates-doc.md) |
-| 🤖 **AI Support** | [Chatbot Module](https://www.google.com/search?q=https://github.com/Robiu-Sani/create-express-easy/blob/main/chatbot-doc.md) |
-| 🌍 **Deployment** | [Deployment Guide](https://www.google.com/search?q=https://github.com/Robiu-Sani/create-express-easy/blob/main/deploy-project.md) |
+| 🚀 **Getting Started** | [Project Initializer](https://github.com/Robiu-Sani/create-express-easy/blob/main/project-initializer.md) |
+| 🔑 **Environment** | [Environment Setup](https://github.com/Robiu-Sani/create-express-easy/blob/main/env-doc.md) |
+| ⚙️ **Configuration** | [Config Setup](https://github.com/Robiu-Sani/create-express-easy/blob/main/config-doc.md) |
+| 🏗️ **Architecture** | [Module Structure](https://github.com/Robiu-Sani/create-express-easy/blob/main/module-doc.md) |
+| 🛡️ **Security** | [Auth Middleware](https://github.com/Robiu-Sani/create-express-easy/blob/main/auth-middleware-doc.md) |
+| 🛠️ **Custom Logic** | [Custom Middleware](https://github.com/Robiu-Sani/create-express-easy/blob/main/middleware-doc.md) |
+| 🖼️ **File Upload** | [Upload Image](https://github.com/Robiu-Sani/create-express-easy/blob/main/uploadimage-doc.md) & [Cloudinary](https://github.com/Robiu-Sani/create-express-easy/blob/main/upload-in-cloudinary.md) |
+| 🔗 **Routing** | [Router Guide](https://github.com/Robiu-Sani/create-express-easy/blob/main/router-doc.md) |
+| 📧 **Mailing** | [Send Email](https://github.com/Robiu-Sani/create-express-easy/blob/main/send-email-doc.md) & [Templates](https://github.com/Robiu-Sani/create-express-easy/blob/main/email-templates-doc.md) |
+| 🤖 **AI Support** | [Chatbot Module](https://github.com/Robiu-Sani/create-express-easy/blob/main/chatbot-doc.md) |
+| 🌍 **Deployment** | [Deployment Guide](https://github.com/Robiu-Sani/create-express-easy/blob/main/deploy-project.md) |
 
 -----
 
@@ -78,7 +78,7 @@ Once the project is generated, you can use the following commands:
 
 **Robius Sani** Founder of **Code Biruni**
 
-  * GitHub: [@Robius-Sani](https://www.google.com/search?q=https://github.com/Robiu-Sani)
+  * GitHub: [@Robius-Sani](https://github.com/Robiu-Sani)
   * Website: [Documentation](https://marn-express-initializer.vercel.app/)
 
 -----
