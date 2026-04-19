@@ -10,7 +10,7 @@
   },
   "files": [
     "bin",
-    "templates"
+    "template"
   ],
   "bugs": {
     "url": "https://github.com/Robiu-Sani/create-express-easy/issues"
