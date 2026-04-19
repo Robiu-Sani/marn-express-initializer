@@ -1,22 +1,26 @@
 {
-  "name": "marn-express-initializer",
-  "version": "1.0.2",
+  "name": "create-express-easy",
+  "version": "1.0.0",
   "description": "Custom project initializer for Code Biruni ecosystem",
-  "main": "index.js",
+  "main": "bin/index.js",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Robiu-Sani/marn-express-initializer.git"
+    "url": "git+https://github.com/Robiu-Sani/create-express-easy.git"
   },
+  "files": [
+    "bin",
+    "templates"
+  ],
   "bugs": {
-    "url": "https://github.com/Robiu-Sani/marn-express-initializer/issues"
+    "url": "https://github.com/Robiu-Sani/create-express-easy/issues"
   },
-  "homepage": "https://marn-express-initializer.vercel.app",
+  "homepage": "https://create-express-easy.vercel.app",
   "bin": {
-    "marn-express-initializer": "index.js"
+    "create-express-easy": "bin/index.js"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node bin/index.js"
   },
   "keywords": [
     "cli",
@@ -35,14 +39,15 @@
     "fullstack",
     "code-biruni",
     "api-starter",
-    "scaffolding-tool"
+    "scaffolding-tool",
+    "create-express-easy"
   ],
   "author": "Robius Sani",
   "license": "ISC",
   "dependencies": {
     "commander": "^12.0.0",
-    "degit": "^2.8.4",
     "enquirer": "^2.4.1",
+    "fs-extra": "^11.3.4",
     "ora": "^8.0.0",
     "picocolors": "^1.1.1"
   }
